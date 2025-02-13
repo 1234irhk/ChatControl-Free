@@ -397,3 +397,7 @@ Debug: false
 
 # Do not change this value, otherwise it will corrupt your plugin installation!
 Version: 4
+
+match republica
+then warn &c¡maldito rojo!
+then tempban {player} 10sec Usar palabras prohibidas
